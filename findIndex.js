@@ -13,7 +13,7 @@ Array.prototype.MyIndex=function(callback,thisarg){
 return -1
     
 }
-const array1 = [5, 12, 8, 130, 44];
+const array1 = [5, 12, 8, 130, ,55, 44];
 
 const isLargeNumber = (element) => element > 10;
 
